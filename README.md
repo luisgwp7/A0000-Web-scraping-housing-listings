@@ -29,10 +29,15 @@ If you have a keen interest in the housing market and want to identify areas wit
 - [Examples](#examples)
 
 ## Installation
-Steps to install the project and any dependencies.
+You need to download all the project. Including the .bat file, which is used for deleting the temporal data. 
 
 ## Usage
-Instructions on how to use the project, including code examples.
+### 1. Change the directories sections: 
+- In the folder of *__SCRAPERS__* you are going to find 2 folders ("BUILDINGS" and "Lotes"). Just focus in BUILDINGS. Now there are another three folders (CC, FR, and ML) each of them correpond to a different page. According to this, if you just one ML page, just change this file.
+- Now, the changes that you need to do is simple, you just need to change the directories paths in the .py file name directories. Don't you worry, you can find it in the followint path __(C:\ Users \ *{your_user}* \{*your_folder_to_save_the_project*} \ SCRAPERS \ BUILDINGS \ FR \ FR \ directories.py)__
+- Taking this into account, you just gonna need change your user and the folder that you use. In this python file you are going to fins three important paths, the master directorie that is the directory you use to save the data, the driver directory you use to save the Selenium driver required in this program, and finally, the directory of the .bat file, that delete the temporal files in your machine.
+- Now, you can use the jupyter notebooks that are really simple. For this step you need to understand that this program, at first catch the data of the front pages, where you just have the main information, but not the most relevant if you want to dive depper, such as the geograpich information inthis case. You need to use at first the notebooks that have the FRONT, for used and rent. When those scrapers ends, you can then run the INT notebooks for used and rent. If you want to run them simultanuously, go ahead, I recommend run Q1 and Q2 at first, then Q3 and Q4, for each operation. But If you have different machines, then, maybe you can run all of them simultanously. The time execution could vary, but normally it takes just one week or less for get all the information.
+- Something that you may need is that the driver could change, in this case, the scraper is not going to work. Just look for the last version of drivers for testing. This program use Chrome driver. You can take a look of them here: https://chromedriver.chromium.org/downloads or https://googlechromelabs.github.io/chrome-for-testing/    
 
 ## Configuration
 Details on any configuration settings and how to configure them.
