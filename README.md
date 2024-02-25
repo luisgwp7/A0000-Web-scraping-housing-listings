@@ -37,7 +37,7 @@ You need to download all the project. Including the .bat file, which is used for
 
 - In the folder of **\_\_SCRAPERS\_\_**, you will find 2 folders ("BUILDINGS" and "Lotes"). Just focus on BUILDINGS. Now, there are another three folders (CC, FR, and ML), each of them corresponds to a different page. According to this, if you just want ML page data, make changes to this file.
 
-- Now, the changes that you need to make are simple. You just need to change the directory paths in the .py file named directories. Don't worry; you can find it in the following path: 
+- Now, the changes that you need to make are simple. You just need to change the directory paths in the .py file named directories. Don't worry; you can find it in the following path: *__C:\ Users \ {your_user} \ {your_folder_to_save_the_project} \ SCRAPERS \ BUILDINGS \ FR \ FR \ directories.py__*
 
 Taking this into account, you just need to change your username and the folder that you use. In this python file, you are going to find three important paths: the master directory (the directory you use to save the data), the driver directory (where you save the Selenium driver required for this program), and finally, the directory of the .bat file, that deletes the temporal files on your machine.
 
