@@ -20,13 +20,8 @@ If you have a keen interest in the housing market and want to identify areas wit
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 - [Contact Information](#contact-information)
-- [FAQ](#faq)
-- [Examples](#examples)
+
 
 ## Installation
 You need to download all the project. Including the .bat file, which is used for deleting the temporal data. 
@@ -52,23 +47,7 @@ You need to use, at first, the notebooks that have the FRONT, for used and rent.
 - Something that you may encounter is that the driver could change; in this case, the scraper is not going to work. Just look for the latest version of drivers for testing. This program uses the Chrome driver. You can find the latest versions [here](https://chromedriver.chromium.org/downloads) or [here](https://googlechromelabs.github.io/chrome-for-testing/).
 
 
-## Configuration
-Details on any configuration settings and how to configure them.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## Credits
-Give credit to external libraries, resources, or contributors.
-
-## License
-Specify the project's license.
-
 ## Contact Information
-Provide a way for users to reach out for support or inquiries.
+[linkedin](https://www.linkedin.com/in/luis-gwp7/)
+[X](https://www.linkedin.com/in/luis-gwp7/)
 
-## FAQ
-Anticipated frequently asked questions and their answers.
-
-## Examples
-Include examples of how the project can be used, along with sample outputs.
