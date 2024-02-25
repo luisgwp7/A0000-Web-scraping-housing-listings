@@ -1,0 +1,38 @@
+
+FullName                                                                                   LastWriteTime          Length
+--------                                                                                   -------------          ------
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\__pycache__                                 12/22/2023 7:56:25 PM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\.ipynb_checkpoints                          12/22/2023 7:07:42 PM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR                                          12/23/2023 7:38:02 AM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\ML                                          12/23/2023 7:13:49 AM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\TOOLS                                       12/23/2023 7:39:20 AM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\__init__.py                                 12/23/2023 8:02:06 AM  10
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\contenido_directorio.txt                    12/23/2023 8:07:25 AM  0
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR                                       12/22/2023 8:11:41 PM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\__init__.py                              12/23/2023 7:38:07 AM  12
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_FRONT_NEW.ipynb                       12/23/2023 8:06:17 AM  6860
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_FRONT_RENT.ipynb                      12/22/2023 7:59:09 PM  24994
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_FRONT_USED.ipynb                      12/22/2023 10:34:02 PM 7406
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_MASTER.ipynb                      12/22/2023 11:22:25 PM 11174
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_RENT_Q1.ipynb                     12/22/2023 11:13:27 PM 6436
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_RENT_Q2.ipynb                     12/22/2023 11:13:29 PM 6445
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_RENT_Q3.ipynb                     12/22/2023 11:14:16 PM 6445
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_RENT_Q4.ipynb                     12/22/2023 11:15:14 PM 6446
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_USED_Q1.ipynb                     12/22/2023 11:09:22 PM 7934
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_USED_Q2.ipynb                     12/22/2023 11:09:17 PM 6572
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_USED_Q3.ipynb                     12/22/2023 11:09:28 PM 6572
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR_INT_USED_Q4.ipynb                     12/22/2023 11:09:25 PM 6573
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\__pycache__                           12/23/2023 7:57:17 AM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\__init__.py                           12/22/2023 4:33:47 PM  86
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\frontpage.py                          12/23/2023 7:57:13 AM  27003
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\internal.py                           12/22/2023 10:55:56 PM 16146
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\__pycache__\__init__.cpython-311.pyc  12/22/2023 5:11:46 PM  262
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\__pycache__\frontpage.cpython-311.pyc 12/23/2023 7:57:17 AM  22906
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\FR\FR\__pycache__\internal.cpython-311.pyc  12/22/2023 10:57:10 PM 19511
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\ML\ML                                       12/23/2023 7:14:59 AM  
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\ML\ML\__init__.py                           12/23/2023 7:14:38 AM  47
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\ML\ML\frontpage.py                          12/23/2023 7:15:55 AM  801
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\TOOLS\__init__.py                           12/23/2023 7:39:05 AM  0
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\TOOLS\utilities.py                          12/23/2023 7:40:07 AM  300
+C:\Users\luisG\GIT\SCRAPING\SCRAPERS\BUILDINGS\__pycache__\__init__.cpython-311.pyc        12/22/2023 7:56:25 PM  385
+
