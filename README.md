@@ -49,5 +49,5 @@ You need to use, at first, the notebooks that have the FRONT, for used and rent.
 
 ## Contact Information
 [linkedin](https://www.linkedin.com/in/luis-gwp7/)
-[X](https://www.linkedin.com/in/luis-gwp7/)
+[X](https://twitter.com/luis_gwp)
 
