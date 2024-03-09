@@ -7,6 +7,7 @@ principal_url_housing_rent = f'{principal_url_housing}/arriendos'
 
 list_stratum = ['1', '2', '3', '4', '5', '6']
 list_rooms_baths_parks = ['1', '2', '3', '4%2B']
+list_age = ['1-8', '9-15', '16-30', '>30']
 list_prices_ranges_sales = [[0, 135000000], 
                             [135000000, 300000000], 
                             [300000000, 500000000], 
@@ -47,7 +48,7 @@ def combinateCharacteristicsHousing(list_prices_ranges_operation, operation):
     '''     
 
     if operation == 'Sales':
-        combinations = list(product(list_stratum, 
+        combinations = list(product(list_age, list_stratum, 
                                     list_rooms_baths_parks, 
                                     list_rooms_baths_parks, 
                                     list_rooms_baths_parks, 
@@ -77,10 +78,10 @@ def createCombinationsHousingUrls(initial_url, list_prices_ranges_operation, ope
 
     if operation == 'Sales':
         for combination in combinations:
-            stratum, baths, rooms, parks, price_range = combination
+            age, stratum, baths, rooms, parks, price_range = combination
             precio_desde, precio_hasta = price_range
             
-            enlace = f'''{initial_url}?pagina=1&usado=true&precioHasta={precio_hasta}&precioDesde={precio_desde}&habitaciones={rooms}&ba%C3%B1os={baths}&parqueaderos={parks}&estrato={stratum}'''
+            enlace = f'''{initial_url}?pagina=1&usado=true&precioHasta={precio_hasta}&precioDesde={precio_desde}&habitaciones={rooms}&ba%C3%B1os={baths}&parqueaderos={parks}&estrato={stratum}&antiguedad={age}'''
             list_enlaces.append(enlace)
 
     elif operation == 'Rent':
